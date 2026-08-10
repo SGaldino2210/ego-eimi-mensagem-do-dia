@@ -1,4 +1,4 @@
-const CACHE_VERSION = 'ego-eimi-v1';
+const CACHE_VERSION = 'ego-eimi-v2';
 const PRECACHE_URLS = [
   '.',
   'index.html',
@@ -7,6 +7,7 @@ const PRECACHE_URLS = [
   'src/app.js',
   'src/daily-message.js',
   'data/ego_eimi_mensagens.json',
+  'icons/icon-180.png',
   'icons/icon-192.png',
   'icons/icon-512.png',
   'icons/icon-512-maskable.png',

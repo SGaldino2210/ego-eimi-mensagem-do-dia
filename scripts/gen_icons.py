@@ -30,4 +30,7 @@ for size in (192, 512):
 
 make_icon(512, maskable=True).save(os.path.join(OUT_DIR, "icon-512-maskable.png"))
 
+# apple-touch-icon: Apple recomenda sem canal alpha (fundo sempre opaco).
+make_icon(180).convert("RGB").save(os.path.join(OUT_DIR, "icon-180.png"))
+
 print("Ícones gerados em", os.path.abspath(OUT_DIR))
