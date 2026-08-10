@@ -1,0 +1,32 @@
+{
+  "name": "Ego Eimi — Mensagem do Dia",
+  "short_name": "Ego Eimi",
+  "description": "Devocional diário com as falas diretas de Jesus, do livro Ego Eimi — A Voz de Jesus Sem Interrupções.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f7efe1",
+  "theme_color": "#f7efe1",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
