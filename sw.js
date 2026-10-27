@@ -1,4 +1,4 @@
-const CACHE_VERSION = 'ego-eimi-v2';
+const CACHE_VERSION = 'ego-eimi-v3';
 const PRECACHE_URLS = [
   '.',
   'index.html',

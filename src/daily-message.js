@@ -18,8 +18,24 @@ export function getDayOfYear(date) {
 }
 
 /**
+ * Conta os dias corridos desde 31/12/2025 (1 = 01/01/2026), em calendário
+ * local normalizado para UTC. Em 2026 coincide com o dia do ano, então as
+ * mensagens já exibidas continuam nas mesmas datas.
+ * @param {Date} date
+ * @returns {number}
+ */
+export function getDiasDesdeInicio(date) {
+  const oneDay = 24 * 60 * 60 * 1000;
+  const inicioUTC = Date.UTC(2026, 0, 1);
+  const dateUTC = Date.UTC(date.getFullYear(), date.getMonth(), date.getDate());
+  return Math.floor((dateUTC - inicioUTC) / oneDay) + 1;
+}
+
+/**
  * Seleciona a mensagem do dia para uma data, de forma determinística:
  * a mesma data sempre retorna a mesma mensagem, para qualquer usuário.
+ * Usa dias corridos (e não o dia do ano) para que o ciclo percorra todas
+ * as mensagens, inclusive as que passam do 365º dia.
  * @param {Date} date
  * @param {Array<object>} mensagens
  * @returns {object}
@@ -28,8 +44,8 @@ export function getMensagemDoDia(date, mensagens) {
   if (!Array.isArray(mensagens) || mensagens.length === 0) {
     throw new Error('Lista de mensagens vazia ou inválida.');
   }
-  const diaDoAno = getDayOfYear(date);
-  const indice = diaDoAno % mensagens.length;
+  const total = mensagens.length;
+  const indice = ((getDiasDesdeInicio(date) % total) + total) % total;
   return mensagens[indice];
 }
 

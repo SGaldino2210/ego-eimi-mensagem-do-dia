@@ -35,11 +35,23 @@
   <main class="card" id="card" aria-live="polite">
     <p class="card-date" id="data-exibida">—</p>
 
+    <section class="card-cena" id="bloco-cena" hidden>
+      <p class="card-label">A cena</p>
+      <p class="card-cena-texto" id="mensagem-cena"></p>
+    </section>
+
     <p class="card-quote-mark" aria-hidden="true">“</p>
 
     <blockquote class="card-quote" id="mensagem-texto"></blockquote>
 
     <button class="btn-continuar" id="btn-continuar" hidden>continuar lendo →</button>
+
+    <section class="card-reflexao" id="bloco-reflexao" hidden>
+      <p class="card-label">Por que isso importa</p>
+      <p class="card-reflexao-texto" id="mensagem-sentido"></p>
+      <p class="card-label">Pra hoje</p>
+      <p class="card-reflexao-texto card-hoje" id="mensagem-hoje"></p>
+    </section>
 
     <div class="card-meta">
       <p class="card-ref" id="mensagem-ref"></p>

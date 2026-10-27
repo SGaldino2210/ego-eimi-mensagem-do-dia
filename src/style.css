@@ -133,6 +133,45 @@ body {
   color: var(--color-accent);
 }
 
+/* A Cena do Dia */
+
+.card-label {
+  margin: 0 0 6px;
+  font-family: var(--font-sans);
+  font-size: 11px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: var(--color-accent-dark);
+}
+
+.card-cena {
+  margin: 10px 0 8px;
+}
+
+.card-cena-texto,
+.card-reflexao-texto {
+  margin: 0;
+  font-family: var(--font-serif);
+  font-size: 17px;
+  line-height: 1.55;
+  color: var(--color-text);
+}
+
+.card-reflexao {
+  margin: 22px 0 6px;
+  padding-top: 18px;
+  border-top: 1px solid var(--color-border);
+}
+
+.card-reflexao .card-label:not(:first-child) {
+  margin-top: 16px;
+}
+
+.card-hoje {
+  font-style: italic;
+}
+
 .card-meta {
   margin-top: auto;
   padding-top: 18px;

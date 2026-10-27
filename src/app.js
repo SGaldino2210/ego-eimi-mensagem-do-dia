@@ -5,6 +5,11 @@ const el = {
   texto: document.getElementById('mensagem-texto'),
   ref: document.getElementById('mensagem-ref'),
   contexto: document.getElementById('mensagem-contexto'),
+  blocoCena: document.getElementById('bloco-cena'),
+  cena: document.getElementById('mensagem-cena'),
+  blocoReflexao: document.getElementById('bloco-reflexao'),
+  sentido: document.getElementById('mensagem-sentido'),
+  hoje: document.getElementById('mensagem-hoje'),
   btnContinuar: document.getElementById('btn-continuar'),
   btnAnterior: document.getElementById('btn-anterior'),
   btnProximo: document.getElementById('btn-proximo'),
@@ -38,6 +43,15 @@ function render(date) {
   el.texto.textContent = mensagem.texto;
   el.ref.textContent = mensagem.ref;
   el.contexto.textContent = mensagem.contexto;
+
+  // "A Cena do Dia": quando a mensagem já tem cena, ela substitui a linha de contexto
+  const temCena = Boolean(mensagem.cena);
+  el.blocoCena.hidden = !temCena;
+  el.blocoReflexao.hidden = !temCena;
+  el.contexto.hidden = temCena;
+  el.cena.textContent = mensagem.cena || '';
+  el.sentido.textContent = mensagem.sentido || '';
+  el.hoje.textContent = mensagem.hoje || '';
   el.inputData.value = formatDateISO(date);
 
   expandido = false;
@@ -65,7 +79,12 @@ function mostrarToast(mensagem) {
 
 async function compartilhar() {
   const mensagem = getMensagemDoDia(dataAtual, mensagens);
-  const texto = `"${mensagem.texto}"\n\n— ${mensagem.ref}\n\nEgo Eimi — A Voz de Jesus Sem Interrupções`;
+  const partes = [];
+  if (mensagem.cena) partes.push(mensagem.cena);
+  partes.push(`"${mensagem.texto}"\n— ${mensagem.ref}`);
+  if (mensagem.hoje) partes.push(`Pra hoje: ${mensagem.hoje}`);
+  partes.push('Ego Eimi — A Voz de Jesus Sem Interrupções');
+  const texto = partes.join('\n\n');
 
   if (navigator.share) {
     try {
