@@ -3071,7 +3071,10 @@
       "contexto": "Contexto: Cura do filho do oficial do rei.",
       "texto": "Se não virdes sinais e prodígios, não crereis. [...] Vai, o teu filho vive.",
       "palavras": 14,
-      "tamanho": "curta"
+      "tamanho": "curta",
+      "cena": "Em Caná, um oficial do rei vem pedir a Jesus que desça até Cafarnaum, porque o filho dele está morrendo. Ele implora: \"Senhor, desce, antes que meu filho morra\". Jesus não vai. Só diz: \"Vai, o teu filho vive\". E o homem volta para casa sem nada nas mãos além da palavra.",
+      "sentido": "No caminho, os servos vêm correndo avisar que o menino está vivo. Ele pergunta a que horas melhorou: foi na mesma hora em que Jesus falou. A palavra de Jesus não precisa de distância curta para funcionar.",
+      "hoje": "Às vezes Deus não te dá o sinal que você pediu, dá só a palavra. Creia nela e siga o caminho."
     },
     {
       "id": 332,
@@ -3080,7 +3083,10 @@
       "contexto": "Contexto: No tanque de Betesda.",
       "texto": "Queres ficar são? [...] Levanta-te, toma o teu leito, e anda.",
       "palavras": 11,
-      "tamanho": "curta"
+      "tamanho": "curta",
+      "cena": "Em Jerusalém, no tanque de Betesda, uma multidão de doentes espera a água se agitar. Entre eles há um homem doente havia 38 anos. Jesus pergunta: \"Queres ficar são?\". Ele responde com uma desculpa: não tem ninguém para colocá-lo na água, e sempre chega outro antes.",
+      "sentido": "Depois de 38 anos, aquele homem já tinha uma explicação pronta para continuar igual. Jesus não discute a explicação. Ele mesmo é a ajuda que faltava, e dá uma ordem: levanta, pega a tua cama e anda.",
+      "hoje": "Que desculpa você repete há anos? Jesus pergunta se você quer mesmo mudar. Dê hoje o primeiro passo."
     },
     {
       "id": 333,
@@ -3089,7 +3095,10 @@
       "contexto": "Contexto: Encontrando o homem curado no templo.",
       "texto": "Eis que já estás são; não peques mais, para que não te suceda alguma coisa pior.",
       "palavras": 16,
-      "tamanho": "media"
+      "tamanho": "media",
+      "cena": "O homem curado em Betesda nem sabia quem o tinha curado. Jesus tinha sumido no meio da multidão. Dias depois, Jesus o encontra no templo e fala com ele de novo.",
+      "sentido": "Jesus foi atrás do homem. A cura do corpo já estava feita, mas Ele queria mais: que a vida inteira daquele homem fosse transformada, não só as pernas.",
+      "hoje": "Deus não quer só resolver o seu problema. Quer a sua vida inteira. O que Ele já curou em você, cuide para não estragar de novo."
     },
     {
       "id": 334,
@@ -3098,7 +3107,10 @@
       "contexto": "Contexto: Resposta à perseguição por curar no sábado.",
       "texto": "Meu Pai trabalha até agora, e eu trabalho também.",
       "palavras": 9,
-      "tamanho": "curta"
+      "tamanho": "curta",
+      "cena": "Os líderes perseguem Jesus porque Ele curou o homem de Betesda num sábado, o dia de descanso. A resposta dEle aumenta a raiva deles: \"Meu Pai trabalha até agora, e eu trabalho também\".",
+      "sentido": "Até os mestres judeus admitiam que Deus nunca para de sustentar o mundo, nem no sábado. Ao chamar Deus de \"meu Pai\" e dizer que trabalhava como Ele, Jesus se colocava no lugar de Deus. Por isso queriam matá-lo.",
+      "hoje": "Deus não tira folga de você. Mesmo quando parece que nada acontece, Ele está trabalhando."
     },
     {
       "id": 335,
@@ -3107,7 +3119,10 @@
       "contexto": "O Grande Discurso sobre a Autoridade do Filho e os Testemunhos",
       "texto": "Na verdade, na verdade vos digo que o Filho por si mesmo não pode fazer coisa alguma, se o não vir fazer ao Pai; porque tudo quanto ele faz, o Filho o faz igualmente. [...] Quem ouve a minha palavra, e crê naquele que me enviou, tem a vida eterna, e não entrará em condenação, mas passou da morte para a vida. [...] Eu não posso de mim mesmo fazer coisa alguma. Como ouço, julgo; e o meu juízo é justo, porque não busco a minha vontade, mas a vontade do Pai que me enviou. [...] Examinais as Escrituras, porque vós cuidais ter nelas a vida eterna, e são elas que de mim testificam.",
       "palavras": 114,
-      "tamanho": "longa"
+      "tamanho": "longa",
+      "cena": "Diante dos líderes que queriam matá-lo, Jesus faz um longo discurso. Ele explica que só faz o que vê o Pai fazer, que quem ouve a sua palavra já passou da morte para a vida, e termina com uma frase forte: eles estudavam as Escrituras, mas não percebiam de quem elas falavam.",
+      "sentido": "Aqueles homens conheciam a Bíblia de cor. Mesmo assim, não reconheceram Jesus, que estava na frente deles. Para Jesus, as Escrituras não são o fim: são o caminho que leva até Ele.",
+      "hoje": "Ler a Bíblia não é só acumular informação. Quando ler hoje, procure Jesus no texto."
     },
     {
       "id": 336,
@@ -3116,7 +3131,10 @@
       "contexto": "Contexto: Jesus questiona Filipe sobre como alimentar a multidão.",
       "texto": "Onde compraremos pão, para estes comerem?",
       "palavras": 6,
-      "tamanho": "curta"
+      "tamanho": "curta",
+      "cena": "Uma multidão enorme segue Jesus até um monte, perto do mar da Galileia. Ele olha para todos e pergunta a Filipe: \"Onde compraremos pão, para estes comerem?\". Filipe faz as contas: nem duzentos dinheiros de pão dariam. André aparece com um menino que tinha cinco pães de cevada e dois peixinhos.",
+      "sentido": "O texto diz que Jesus perguntou para testar Filipe, porque já sabia o que ia fazer. Duzentos dinheiros eram uns oito meses de trabalho. E pão de cevada era o pão dos pobres.",
+      "hoje": "Quando Deus te pergunta \"e agora?\", não é porque Ele não sabe. Entregue o pouco que você tem, como aquele menino."
     },
     {
       "id": 337,
@@ -3125,7 +3143,10 @@
       "contexto": "Contexto: Andando sobre o mar, aos discípulos no barco.",
       "texto": "Sou eu, não temais.",
       "palavras": 4,
-      "tamanho": "curta"
+      "tamanho": "curta",
+      "cena": "Já é noite. Os discípulos atravessam o mar de barco, e Jesus não está com eles. O vento fica forte e o mar se agita. Depois de remar uns cinco quilômetros, veem Jesus andando sobre a água, chegando perto do barco, e ficam com medo.",
+      "sentido": "\"Sou eu\", no grego, é \"Ego Eimi\": \"Eu Sou\". É o nome com que Deus se apresentou a Moisés. O texto diz que, quando eles o receberam no barco, logo chegaram à terra para onde iam.",
+      "hoje": "Antes de acalmar o vento, Jesus quer que você reconheça a voz dEle. Receba-o no seu barco hoje."
     },
     {
       "id": 338,
@@ -3134,7 +3155,10 @@
       "contexto": "Contexto: Jesus confronta a multidão que O seguiu após o milagre.",
       "texto": "Na verdade, na verdade vos digo que me buscais, não pelos sinais que vistes, mas porque comestes do pão e vos saciastes. Trabalhai, não pela comida que perece, mas pela comida que permanece para a vida eterna, a qual o Filho do homem vos dará...",
       "palavras": 45,
-      "tamanho": "media"
+      "tamanho": "media",
+      "cena": "No dia seguinte à multiplicação dos pães, a multidão atravessa o mar procurando Jesus. Quando o encontram, perguntam: \"Rabi, quando chegaste aqui?\". Jesus vai direto ao ponto: vocês me procuram porque comeram pão e ficaram satisfeitos.",
+      "sentido": "Na véspera, aquela multidão tinha tentado fazer Jesus rei à força. Queriam um rei que garantisse comida. Jesus não quer ser procurado só pelo que dá, mas pelo que Ele é.",
+      "hoje": "Por que você procura Jesus? Hoje, ore sem pedir nada, só para estar com Ele."
     },
     {
       "id": 339,
@@ -3143,7 +3167,10 @@
       "contexto": "Contexto: Diferenciando o maná do verdadeiro pão.",
       "texto": "Na verdade, na verdade vos digo: Moisés não vos deu o pão do céu; mas meu Pai vos dá o verdadeiro pão do céu. Porque o pão de Deus é aquele que desce do céu e dá vida ao mundo.",
       "palavras": 40,
-      "tamanho": "media"
+      "tamanho": "media",
+      "cena": "A multidão pede um sinal para acreditar e lembra: \"Nossos pais comeram o maná no deserto\". Jesus responde que não foi Moisés quem deu aquele pão, mas o Pai. E que o Pai agora dá o verdadeiro pão do céu.",
+      "sentido": "O maná foi o alimento que caiu do céu durante os 40 anos no deserto, depois da saída do Egito. Ele sustentava só por um dia. Jesus diz que o verdadeiro pão de Deus não é uma comida: é uma pessoa que dá vida ao mundo.",
+      "hoje": "Do que a sua alma tem fome? Só Deus sacia de verdade."
     },
     {
       "id": 340,
@@ -3152,7 +3179,10 @@
       "contexto": "A Grande Declaração: O Pão da Vida",
       "texto": "Eu sou o pão da vida; aquele que vem a mim não terá fome, e quem crê em mim nunca terá sede. [...] Porque eu desci do céu, não para fazer a minha vontade, mas a vontade daquele que me enviou. [...] E a vontade do que me enviou é esta: Que todo aquele que vê o Filho, e crê nele, tenha a vida eterna; e eu o ressuscitarei no último dia.",
       "palavras": 72,
-      "tamanho": "longa"
+      "tamanho": "longa",
+      "cena": "A multidão pede: \"Senhor, dá-nos sempre desse pão\". E Jesus responde com uma das frases mais fortes dos Evangelhos: \"Eu sou o pão da vida\".",
+      "sentido": "É a primeira das sete declarações \"Eu Sou\" do Evangelho de João, o \"Ego Eimi\". O pão era a base da comida de todos os dias. Jesus diz que Ele é para a alma o que o pão é para o corpo: o essencial.",
+      "hoje": "Você não come uma vez por semana. Busque Jesus hoje também, como o pão de cada dia."
     },
     {
       "id": 341,
@@ -3161,7 +3191,10 @@
       "contexto": "Contexto: Jesus responde à murmuração dos judeus.",
       "texto": "Não murmureis entre vós. Ninguém pode vir a mim, se o Pai que me enviou o não trouxer... [...] Eu sou o pão vivo que desceu do céu; se alguém comer deste pão, viverá para sempre; e o pão que eu der é a minha carne, que eu darei pela vida do mundo.",
       "palavras": 53,
-      "tamanho": "longa"
+      "tamanho": "longa",
+      "cena": "Ouvindo Jesus dizer que tinha descido do céu, o povo começa a murmurar: \"Não é este Jesus, o filho de José, cujo pai e mãe nós conhecemos?\". Jesus responde: \"Não murmureis entre vós\".",
+      "sentido": "\"Murmurar\" lembra o povo de Israel no deserto, que reclamava de Moisés mesmo comendo o maná. A história se repetia: o pão do céu estava ali, e eles reclamavam. Achavam que conheciam Jesus bem demais para crer nEle.",
+      "hoje": "Cuidado com a reclamação que não deixa ver o que Deus está fazendo. Troque hoje uma reclamação por um agradecimento."
     },
     {
       "id": 342,
@@ -3170,7 +3203,10 @@
       "contexto": "Contexto: Discurso sobre comer Sua carne e beber Seu sangue.",
       "texto": "Na verdade, na verdade vos digo que, se não comerdes a carne do Filho do homem, e não beberdes o seu sangue, não tereis vida em vós mesmos. Quem come a minha carne e bebe o meu sangue tem a vida eterna...",
       "palavras": 42,
-      "tamanho": "media"
+      "tamanho": "media",
+      "cena": "Jesus diz que é preciso comer a sua carne e beber o seu sangue. Muitos discípulos acham aquilo duro demais e vão embora. Jesus pergunta aos doze: \"Quereis vós também retirar-vos?\". Pedro responde: \"Senhor, para quem iremos? Tu tens as palavras da vida eterna\".",
+      "sentido": "Jesus falava de recebê-lo por inteiro e viver dEle, apontando para a entrega dEle na cruz. Os cristãos lembram estas palavras na Ceia. Muitos não entenderam e desistiram. Pedro também não entendeu tudo, mas ficou.",
+      "hoje": "Você não precisa entender tudo para continuar com Jesus. Às vezes a fé é só dizer: \"para quem iremos?\"."
     },
     {
       "id": 343,
@@ -3179,7 +3215,10 @@
       "contexto": "Contexto: Aos Seus irmãos, sobre subir à festa em Jerusalém.",
       "texto": "Ainda não é chegado o meu tempo, mas o vosso tempo sempre está pronto. [...] Subi vós a esta festa; eu não subo ainda a esta festa, porque ainda o meu tempo não está cumprido.",
       "palavras": 35,
-      "tamanho": "media"
+      "tamanho": "media",
+      "cena": "Está chegando a Festa dos Tabernáculos. Os irmãos de Jesus, que ainda não criam nEle, provocam, dizendo que Ele fosse para a Judeia e se mostrasse ao mundo. Jesus responde que o tempo dEle ainda não tinha chegado. Depois sobe à festa, mas em segredo.",
+      "sentido": "A festa lembrava os 40 anos no deserto, e as famílias moravam uma semana em cabanas. Na Judeia, os líderes já queriam matá-lo. Jesus não se deixou empurrar nem pela família: seguia o tempo do Pai.",
+      "hoje": "Nem sempre o tempo de Deus bate com a pressão dos outros. Espere a hora certa, mesmo quando cobrarem."
     },
     {
       "id": 344,
@@ -3188,7 +3227,10 @@
       "contexto": "Contexto: Ensinando no templo durante a festa.",
       "texto": "A minha doutrina não é minha, mas daquele que me enviou. Se alguém quiser fazer a vontade dele, pela mesma doutrina conhecerá se ela é de Deus, ou se eu falo de mim mesmo.",
       "palavras": 34,
-      "tamanho": "media"
+      "tamanho": "media",
+      "cena": "No meio da festa, Jesus sobe ao templo e começa a ensinar. Os líderes ficam espantados: \"Como sabe este letras, não as tendo aprendido?\". Jesus responde que a doutrina dEle não é dEle, mas de quem o enviou.",
+      "sentido": "Jesus não tinha estudado nas escolas dos grandes mestres. Para eles, sem diploma não havia autoridade. Jesus diz que quem quer de verdade fazer a vontade de Deus vai reconhecer se aquilo vem dEle.",
+      "hoje": "A melhor forma de entender a Palavra é estar disposto a obedecer. Que parte você já sabe e ainda não praticou?"
     },
     {
       "id": 345,
@@ -3197,7 +3239,10 @@
       "contexto": "Contexto: Sobre a cura no sábado e a hipocrisia das leis.",
       "texto": "Fiz uma obra, e todos vos maravilhais. [...] Se o homem recebe a circuncisão no sábado, para que a lei de Moisés não seja quebrantada, indignais-vos contra mim, porque no sábado curei inteiramente um homem? Não julgueis segundo a aparência, mas julgai segundo a reta justiça.",
       "palavras": 46,
-      "tamanho": "media"
+      "tamanho": "media",
+      "cena": "Ainda na festa, Jesus lembra aos líderes por que eles estavam com raiva: Ele tinha curado o homem de Betesda num sábado. E mostra a contradição deles.",
+      "sentido": "A lei mandava circuncidar o menino no oitavo dia, mesmo que caísse num sábado, e ninguém via problema nisso. Jesus pergunta: se pode cuidar de uma parte do corpo no sábado, por que não curar um homem por inteiro?",
+      "hoje": "Antes de julgar alguém, olhe além da aparência. Não julgue só pelo que parece."
     },
     {
       "id": 346,
@@ -3206,7 +3251,10 @@
       "contexto": "O Clamor do Último Dia da Festa",
       "texto": "Se alguém tem sede, venha a mim, e beba. Quem crê em mim, como diz a Escritura, rios de água viva correrão do seu ventre.",
       "palavras": 25,
-      "tamanho": "media"
+      "tamanho": "media",
+      "cena": "É o último e maior dia da festa. Jesus se põe de pé no templo e grita: \"Se alguém tem sede, venha a mim, e beba\".",
+      "sentido": "Todos os dias da festa havia uma cerimônia: um sacerdote buscava água no tanque de Siloé e a derramava no altar, enquanto o povo pedia a Deus a chuva. Bem no dia mais solene, Jesus diz que Ele é a água que eles procuravam.",
+      "hoje": "Qual é a sua sede hoje? Leve a Jesus o que está seco em você."
     },
     {
       "id": 347,
@@ -3215,7 +3263,10 @@
       "contexto": "A Grande Declaração: A Luz do Mundo",
       "texto": "Eu sou a luz do mundo; quem me segue não andará em trevas, mas terá a luz da vida.",
       "palavras": 19,
-      "tamanho": "media"
+      "tamanho": "media",
+      "cena": "Jesus está no templo, perto do lugar das ofertas, e diz: \"Eu sou a luz do mundo; quem me segue não andará em trevas\".",
+      "sentido": "Na Festa dos Tabernáculos, grandes candelabros eram acesos no pátio do templo, e diziam que iluminavam a cidade inteira. Lembravam a coluna de fogo que guiou o povo no deserto. Jesus diz que a luz verdadeira é Ele.",
+      "hoje": "Se você está numa fase escura ou sem saber que caminho seguir, siga a luz: dê hoje o próximo passo com Jesus."
     },
     {
       "id": 348,
@@ -3224,7 +3275,10 @@
       "contexto": "Contexto: Debate sobre Sua origem.",
       "texto": "Vós sois de baixo, eu sou de cima; vós sois deste mundo, eu não sou deste mundo. Por isso vos disse que morrereis em vossos pecados, porque se não crerdes que eu sou, morrereis em vossos pecados.",
       "palavras": 37,
-      "tamanho": "media"
+      "tamanho": "media",
+      "cena": "O debate no templo esquenta. Os líderes perguntam quem Ele pensa que é. Jesus diz que Ele é \"de cima\" e que, se não crerem que \"eu sou\", morrerão nos seus pecados.",
+      "sentido": "No grego, Jesus usa só \"Ego Eimi\", \"Eu Sou\", sem completar a frase. É o nome de Deus. No fim dessa mesma conversa, Ele diz \"antes que Abraão existisse, eu sou\", e eles pegam pedras para apedrejá-lo.",
+      "hoje": "Jesus não é só um bom mestre. Ele é o \"Eu Sou\". Hoje, ore a Ele como Deus que Ele é."
     },
     {
       "id": 349,
@@ -3233,7 +3287,10 @@
       "contexto": "Contexto: Respondendo por que o homem nascera cego.",
       "texto": "Nem este pecou nem seus pais; mas foi assim para que se manifestem nele as obras de Deus. Convém que eu faça as obras daquele que me enviou, enquanto é dia... Enquanto estou no mundo, sou a luz do mundo.",
       "palavras": 40,
-      "tamanho": "media"
+      "tamanho": "media",
+      "cena": "Jesus passa e vê um homem cego de nascença. Os discípulos perguntam: \"Rabi, quem pecou, este ou seus pais, para que nascesse cego?\".",
+      "sentido": "Naquela época, muitos achavam que todo sofrimento era castigo por algum pecado. Jesus tira a culpa de cima do homem e dos pais: aquela história ia mostrar as obras de Deus.",
+      "hoje": "Nem todo sofrimento é castigo. Em vez de procurar culpados, pergunte o que Deus pode fazer a partir daí."
     },
     {
       "id": 350,
@@ -3242,7 +3299,10 @@
       "contexto": "Contexto: Instrução ao cego.",
       "texto": "Vai, lava-te no tanque de Siloé.",
       "palavras": 6,
-      "tamanho": "curta"
+      "tamanho": "curta",
+      "cena": "Jesus cospe no chão, faz um pouco de lama, passa nos olhos do cego e manda: \"Vai, lava-te no tanque de Siloé\". O homem vai, se lava e volta enxergando.",
+      "sentido": "Siloé quer dizer \"Enviado\", e o próprio Evangelho faz questão de explicar isso. O cego teve que andar pela cidade com lama nos olhos, ainda sem ver, só confiando na palavra de Jesus.",
+      "hoje": "Às vezes a resposta vem no caminho, depois que você obedece. Dê hoje o passo que Deus pediu, mesmo sem ver tudo."
     },
     {
       "id": 351,
@@ -3251,7 +3311,10 @@
       "contexto": "Contexto: Jesus encontra o homem curado que fora expulso da sinagoga.",
       "texto": "Crês tu no Filho de Deus? [...] Tu já o tens visto, e é aquele que fala contigo.",
       "palavras": 18,
-      "tamanho": "media"
+      "tamanho": "media",
+      "cena": "O homem curado é interrogado pelos fariseus. Os pais dele têm medo de falar. Ele, sem saber explicar teologia, diz: \"Uma coisa sei, é que, havendo eu sido cego, agora vejo\". Por isso é expulso da sinagoga. Jesus fica sabendo e vai procurá-lo.",
+      "sentido": "Ser expulso da sinagoga era perder a comunidade, o lugar de culto e o convívio. O homem pagou caro por não negar o que Jesus fez. E quando todos o rejeitaram, Jesus foi atrás dele e se revelou.",
+      "hoje": "Você não precisa saber explicar tudo para contar o que Deus fez na sua vida. E, se for rejeitado por isso, Jesus te encontra."
     },
     {
       "id": 352,
@@ -3260,7 +3323,10 @@
       "contexto": "Parábola da Porta e do Pastor",
       "texto": "Na verdade, na verdade vos digo que aquele que não entra pela porta no curral das ovelhas, mas sobe por outra parte, é ladrão e salteador. Mas o que entra pela porta é o pastor das ovelhas. [...] As ovelhas ouvem a sua voz, e ele chama pelo nome às suas ovelhas, e as traz para fora.",
       "palavras": 57,
-      "tamanho": "longa"
+      "tamanho": "longa",
+      "cena": "Logo depois da história do cego, Jesus fala aos fariseus sobre ovelhas e pastores. O ladrão pula o muro do curral. O pastor entra pela porta, chama as ovelhas pelo nome, e elas o seguem porque conhecem a sua voz.",
+      "sentido": "À noite, os pastores costumavam guardar vários rebanhos no mesmo curral. De manhã, cada um chamava, e só as suas ovelhas respondiam. Os fariseus tinham acabado de expulsar o cego: não agiam como pastores.",
+      "hoje": "Entre tantas vozes, aprenda a reconhecer a voz do seu Pastor. Separe hoje um tempo em silêncio para ouvi-la."
     },
     {
       "id": 353,
@@ -3269,7 +3335,10 @@
       "contexto": "A Grande Declaração: A Porta e o Bom Pastor",
       "texto": "Eu sou a porta das ovelhas. [...] O ladrão não vem senão a roubar, a matar, e a destruir; eu vim para que tenham vida, e a tenham com abundância. Eu sou o bom pastor; o bom pastor dá a sua vida pelas ovelhas.",
       "palavras": 44,
-      "tamanho": "media"
+      "tamanho": "media",
+      "cena": "Jesus continua: \"Eu sou a porta das ovelhas\". E logo depois: \"Eu sou o bom pastor; o bom pastor dá a sua vida pelas ovelhas\".",
+      "sentido": "São mais dois \"Eu Sou\". Em alguns currais, o próprio pastor dormia na entrada, fazendo de porta: nada entrava sem passar por ele. O ladrão vem para roubar, matar e destruir. Jesus veio para dar vida, e vida com abundância.",
+      "hoje": "O que tem roubado a sua paz e a sua alegria? Coloque isso diante do Pastor que veio para te dar vida."
     },
     {
       "id": 354,
@@ -3278,7 +3347,10 @@
       "contexto": "Sobre o sacrifício voluntário",
       "texto": "Eu sou o bom pastor, e conheço as minhas ovelhas, e das minhas sou conhecido. [...] Por isto o Pai me ama, porque dou a minha vida para tornar a tomá-la. Ninguém ma tira de mim, mas eu de mim mesmo a dou...",
       "palavras": 43,
-      "tamanho": "media"
+      "tamanho": "media",
+      "cena": "Jesus explica a diferença entre o pastor e o empregado: quando o lobo chega, o empregado foge, porque as ovelhas não são dele. O bom pastor fica e dá a vida por elas.",
+      "sentido": "Jesus diz que ninguém tira a vida dEle: Ele mesmo a entrega. A cruz não foi um acidente nem uma derrota. Foi uma escolha feita por amor.",
+      "hoje": "Você é conhecido pelo Pastor que escolheu dar a vida por você. Viva hoje como alguém que é amado assim."
     },
     {
       "id": 355,
@@ -3287,7 +3359,10 @@
       "contexto": "Sobre a segurança das ovelhas e Sua unidade com o Pai",
       "texto": "As minhas ovelhas ouvem a minha voz, e eu conheço-as, e elas me seguem; E dou-lhes a vida eterna, e nunca hão de perecer, e ninguém as arrebatará da minha mão. [...] Eu e o Pai somos um.",
       "palavras": 38,
-      "tamanho": "media"
+      "tamanho": "media",
+      "cena": "É inverno em Jerusalém, Festa da Dedicação. Jesus anda pelo pórtico de Salomão, no templo. Os líderes o cercam: \"Até quando terás a nossa alma suspensa? Se tu és o Cristo, dize-no-lo abertamente\".",
+      "sentido": "A festa lembrava quando o templo foi purificado e dedicado de novo a Deus, depois de ser profanado por um rei estrangeiro. Jesus diz que ninguém arranca as ovelhas da mão dEle. Ao ouvir \"Eu e o Pai somos um\", pegaram pedras de novo.",
+      "hoje": "Nada nem ninguém pode te arrancar da mão de Jesus. Descanse nisso hoje."
     },
     {
       "id": 356,
@@ -3296,7 +3371,10 @@
       "contexto": "Contexto: Ao receber a notícia da enfermidade de Lázaro.",
       "texto": "Esta enfermidade não é para morte, mas para glória de Deus, para que o Filho de Deus seja glorificado por ela.",
       "palavras": 21,
-      "tamanho": "media"
+      "tamanho": "media",
+      "cena": "Marta e Maria mandam um recado a Jesus: \"Senhor, eis que está enfermo aquele que tu amas\". Era Lázaro, o irmão delas. Jesus responde que aquela doença não era para morte. E fica mais dois dias onde estava.",
+      "sentido": "O texto diz duas coisas lado a lado: Jesus amava Marta, Maria e Lázaro, e mesmo assim esperou. A demora não era falta de amor. Ele sabia que ia fazer algo maior do que elas tinham pedido.",
+      "hoje": "Se Deus está demorando a responder, não conclua que Ele não te ama. Às vezes Ele está preparando algo maior."
     },
     {
       "id": 357,
@@ -3305,7 +3383,10 @@
       "contexto": "A Grande Declaração: A Ressurreição e a Vida",
       "texto": "Eu sou a ressurreição e a vida; quem crê em mim, ainda que esteja morto, viverá; e todo aquele que vive, e crê em mim, nunca morrerá. Crês tu isto?",
       "palavras": 30,
-      "tamanho": "media"
+      "tamanho": "media",
+      "cena": "Jesus chega a Betânia quando Lázaro já está no túmulo havia quatro dias. Marta vai ao encontro dEle e diz: \"Senhor, se tu estivesses aqui, meu irmão não teria morrido\".",
+      "sentido": "Jesus responde com mais um \"Eu Sou\": \"Eu sou a ressurreição e a vida\". Logo depois, diante do túmulo, Jesus chora. Ele sabia que ia ressuscitar Lázaro e, mesmo assim, chorou com quem chorava.",
+      "hoje": "Jesus chora com você e tem a última palavra. Nenhuma perda fala mais alto do que \"Eu sou a vida\"."
     },
     {
       "id": 358,
@@ -3314,7 +3395,10 @@
       "contexto": "Contexto: Defendendo Maria de Betânia contra a crítica de Judas.",
       "texto": "Deixai-a; para o dia da minha sepultura guardou isto. Porque os pobres sempre os tendes convosco, mas a mim nem sempre me tendes.",
       "palavras": 23,
-      "tamanho": "media"
+      "tamanho": "media",
+      "cena": "Seis dias antes da Páscoa, em Betânia, fazem um jantar para Jesus. Marta serve, Lázaro está à mesa. Maria pega um perfume de nardo puro, caríssimo, e derrama nos pés de Jesus, enxugando com os cabelos. A casa toda fica perfumada. Judas reclama: dava para vender e dar o dinheiro aos pobres.",
+      "sentido": "O perfume valia uns trezentos dinheiros, quase um ano de trabalho. O próprio Evangelho conta que Judas não se importava com os pobres: era ladrão. Jesus defende Maria, porque ela entendeu o que os outros não viam: que Ele ia morrer.",
+      "hoje": "Amor a Jesus às vezes parece exagero para os outros. Não economize o que você entrega a Ele."
     },
     {
       "id": 359,
@@ -3323,7 +3407,10 @@
       "contexto": "Contexto: Respondendo aos gregos que queriam vê-Lo.",
       "texto": "É chegada a hora em que o Filho do homem há de ser glorificado. Na verdade, na verdade vos digo que, se o grão de trigo, caindo na terra, não morrer, fica ele só; mas se morrer, dá muito fruto. Quem ama a sua vida perdê-la-á, e quem neste mundo odeia a sua vida, guardá-la-á para a vida eterna.",
       "palavras": 59,
-      "tamanho": "longa"
+      "tamanho": "longa",
+      "cena": "Uns gregos que tinham vindo adorar na festa procuram Filipe e pedem: \"Senhor, queríamos ver a Jesus\". Filipe conta para André, e os dois levam o recado. Jesus responde falando de um grão de trigo.",
+      "sentido": "Até gente de fora de Israel queria conhecer Jesus. Era sinal de que a hora dEle tinha chegado: a hora da cruz. Como o grão que precisa ir para a terra para virar espiga, a morte dEle ia dar fruto para o mundo inteiro.",
+      "hoje": "O que Deus está pedindo que você enterre para dar fruto? Às vezes uma perda é o começo de uma colheita."
     },
     {
       "id": 360,
@@ -3332,7 +3419,10 @@
       "contexto": "Contexto: Durante o lava-pés, respondendo a Pedro.",
       "texto": "O que eu faço, não o sabes tu agora, mas sabê-lo-ás depois. [...] Se eu te não lavar, não tens parte comigo. [...] Aquele que está lavado não necessita de lavar senão os pés, pois no mais todo está limpo.",
       "palavras": 40,
-      "tamanho": "media"
+      "tamanho": "media",
+      "cena": "Na última ceia, Jesus se levanta da mesa, tira a roupa de cima, amarra uma toalha na cintura, põe água numa bacia e começa a lavar os pés dos discípulos. Pedro resiste: \"Nunca me lavarás os pés\". Depois de ouvir a resposta, pede para Jesus lavar também as mãos e a cabeça.",
+      "sentido": "Lavar os pés dos outros era trabalho de escravo. O Mestre se ajoelhou diante dos seus alunos. Jesus disse a Pedro que ele só entenderia aquilo depois.",
+      "hoje": "Hoje é Natal: o Deus que veio como um bebê numa manjedoura é o mesmo que se ajoelhou para lavar pés. Deixe que Ele cuide de você e sirva alguém hoje."
     },
     {
       "id": 361,
